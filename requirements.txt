@@ -2,3 +2,4 @@ certifi==2020.12.5
 selenium==3.14.0
 urllib3==1.26.4
 wincertstore==0.2
+pytest==5.1.1
